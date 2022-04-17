@@ -1,0 +1,1 @@
+Simple C++ container, a list that can store entries of different types and allows to apply lazy-evaluated modifiers. Assignment for C++ course intended to utilize functional features of C++ 20, std::ranges and variadic types.
